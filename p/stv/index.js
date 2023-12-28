@@ -5,6 +5,10 @@ const require = createRequire(import.meta.url)
 
 const baseProfile = require('./base.json')
 
+import {parseHook} from "../../lib/profile-hooks.js";
+import {parseLine} from "../../parse/line.js";
+import {parseStvLine} from "./parse/line.js";
+
 const products = [{
 	id: 'train-and-s-bahn',
 	mode: 'train',
@@ -83,7 +87,7 @@ const profile = {
 	timezone: 'Europe/Vienna',
 
 	products,
-
+	parseLine: parseHook(parseLine, parseStvLine),
 	refreshJourneyUseOutReconL: true,
 	trip: true,
 	reachableFrom: true,

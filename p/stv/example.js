@@ -7,6 +7,7 @@ const client = createClient(stvProfile, 'hafas-client example')
 
 const grazSonnenhang = '460413500'
 const grazHödlweg = '460415400'
+const grazHbf = '460304000'
 const grazEisengasse10 = {
 	type: 'location',
 	id: '980027564',
@@ -15,7 +16,7 @@ const grazEisengasse10 = {
 	longitude: 15.406064,
 }
 
-let data = await client.locations('sonnenhang', {results: 3})
+// let data = await client.locations('sonnenhang', {results: 3})
 // let data = await client.nearby(grazEisengasse10, {distance: 1000})
 // let data = await client.reachableFrom(grazEisengasse10, {
 // 	maxDuration: 30,
@@ -23,7 +24,7 @@ let data = await client.locations('sonnenhang', {results: 3})
 
 // let data = await client.stop(grazSonnenhang, {linesOfStops: true})
 
-// let data = await client.departures(grazSonnenhang, {duration: 1})
+let data = await client.departures(grazHbf, {results: 5})
 // let data = await client.arrivals(grazSonnenhang, {duration: 10, linesOfStops: true})
 
 // let data = await client.journeys(grazSonnenhang, grazHödlweg, {
@@ -42,4 +43,4 @@ let data = await client.locations('sonnenhang', {results: 3})
 // 	data = await client.trip(leg.tripId, {polyline: true})
 // }
 
-console.log(inspect(data, {depth: null, colors: true}))
+ console.log(inspect(data, {depth: null, colors: true}))
