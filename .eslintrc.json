@@ -9,9 +9,16 @@
         "SharedArrayBuffer": "readonly"
     },
     "ignorePatterns": ["node_modules", "*example.js"],
-    "parserOptions": {
+	"parser": "@babel/eslint-parser",
+	"parserOptions": {
         "ecmaVersion": 2021,
-        "sourceType": "module"
+        "sourceType": "module",
+		"requireConfigFile": false,
+		"babelOptions": {
+			"plugins": [
+				"@babel/plugin-syntax-import-assertions"
+			]
+		}
     },
     "rules": {
         "no-unused-vars": [
