@@ -10,6 +10,7 @@ const rsagJourneys = {
 				fahrtNr: '670',
 				name: 'S2',
 				public: true,
+				filter: true,
 				adminCode: '800156',
 				productName: 'S',
 				mode: 'train',

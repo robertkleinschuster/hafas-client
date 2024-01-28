@@ -30,6 +30,7 @@ const {
 		"type": "line",
 		"name": "S1",
 		"public": true,
+        "filter": true,
 		"mode": "train",
 		"product": "bahn-s-bahn",
 		"operator": {
@@ -52,6 +53,7 @@ const {
 		"type": "line",
 		"name": "S1",
 		"public": true,
+        "filter": true,
 		"mode": "train",
 		"product": "bahn-s-bahn",
 		"operator": {

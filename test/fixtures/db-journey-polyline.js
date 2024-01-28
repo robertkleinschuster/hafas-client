@@ -3951,6 +3951,7 @@ const dbJourneyPolyline = {
 				'fahrtNr': '696',
 				'name': 'ICE 696',
 				'public': true,
+				'filter': false,
 				'adminCode': '80____',
 				'productName': 'ICE',
 				'mode': 'train',

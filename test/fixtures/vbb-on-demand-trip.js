@@ -7,6 +7,7 @@ const vbbOnDemandTrip = {
 		fahrtNr: '7',
 		name: 'R777',
 		public: true,
+		filter: false,
 		adminCode: 'VTFRuf',
 		productName: 'Bus',
 		mode: 'bus',

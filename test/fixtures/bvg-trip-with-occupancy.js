@@ -7,6 +7,7 @@ const bvgTripWithOccupancy = {
 		fahrtNr: '7070',
 		name: '147',
 		public: true,
+		filter: false,
 		adminCode: 'BVB---',
 		productName: 'Bus',
 		mode: 'bus',

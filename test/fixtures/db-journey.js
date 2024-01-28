@@ -168,6 +168,7 @@ const dbJourney = {
 				fahrtNr: '523',
 				name: 'ICE 523',
 				public: true,
+				filter: false,
 				adminCode: '80____',
 				productName: 'ICE',
 				mode: 'train',

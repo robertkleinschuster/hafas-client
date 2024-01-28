@@ -42,6 +42,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "D",
 			"public": true,
+			"filter": false,
 			"productName": "D",
 			"mode": "train",
 			"product": "train-and-s-bahn"
@@ -51,6 +52,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "EC",
 			"public": true,
+			"filter": false,
 			"productName": "EC",
 			"mode": "train",
 			"product": "train-and-s-bahn"
@@ -60,6 +62,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "EN",
 			"public": true,
+			"filter": false,
 			"productName": "EN",
 			"mode": "train",
 			"product": "train-and-s-bahn"
@@ -69,6 +72,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "IC",
 			"public": true,
+			"filter": false,
 			"productName": "IC",
 			"mode": "train",
 			"product": "train-and-s-bahn"
@@ -78,6 +82,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "NJ",
 			"public": true,
+			"filter": false,
 			"productName": "NJ",
 			"mode": "train",
 			"product": "train-and-s-bahn"
@@ -87,6 +92,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "R",
 			"public": true,
+			"filter": false,
 			"productName": "R",
 			"mode": "train",
 			"product": "train-and-s-bahn"
@@ -96,6 +102,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "REX",
 			"public": true,
+			"filter": false,
 			"productName": "REX",
 			"mode": "train",
 			"product": "train-and-s-bahn"
@@ -105,6 +112,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "RJ",
 			"public": true,
+			"filter": false,
 			"productName": "RJ",
 			"mode": "train",
 			"product": "train-and-s-bahn"
@@ -114,6 +122,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "SEV",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -122,6 +131,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "SV600",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -130,6 +140,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "S5",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -138,6 +149,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "S1",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -146,6 +158,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "S3",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -154,6 +167,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "S5",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -162,6 +176,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "S6",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -170,6 +185,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "S7",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -178,6 +194,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "S11",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -186,6 +203,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "S31",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -194,6 +212,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "S61",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -202,6 +221,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "1",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "tram"
 		}, {
@@ -210,6 +230,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "3",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "tram"
 		}, {
@@ -218,6 +239,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "4",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "tram"
 		}, {
@@ -226,6 +248,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "6",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "tram"
 		}, {
@@ -234,6 +257,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "7",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "tram"
 		}, {
@@ -242,6 +266,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "E",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "tram"
 		}, {
@@ -250,6 +275,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "ICB",
 			"public": true,
+			"filter": false,
 			"productName": "ICB",
 			"mode": "bus",
 			"product": "long-distance-bus"
@@ -259,6 +285,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "100",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -267,6 +294,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "110",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -275,6 +303,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "120",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -283,6 +312,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "121",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -291,6 +321,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "130",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -299,6 +330,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "140",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -307,6 +339,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "200",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -315,6 +348,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "201",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -323,6 +357,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "250",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -331,6 +366,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "300",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -339,6 +375,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "350",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -347,6 +384,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "470",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -355,6 +393,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "630",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -363,6 +402,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "710",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -371,6 +411,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "711",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -379,6 +420,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "712",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -387,6 +429,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "B2",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -395,6 +438,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "X30",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -403,6 +447,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "X31",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -411,6 +456,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "X40",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -419,6 +465,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "X41",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -427,6 +474,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "X50",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -435,6 +483,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "X81",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -443,6 +492,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "40",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -451,6 +501,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "48",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -459,6 +510,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "48S",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -467,6 +519,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "52",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -475,6 +528,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "52Z",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -483,6 +537,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "53",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -491,6 +546,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "58",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -499,6 +555,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "63",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -507,6 +564,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "67",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -515,6 +573,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "67E",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -523,6 +582,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "N1",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -531,6 +591,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "N2",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -539,6 +600,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "N7",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}]
@@ -557,6 +619,7 @@ const stvDepartures = [{
 		"fahrtNr": "18934",
 		"name": "6",
 		"public": true,
+		"filter": true,
 		"adminCode": "s3300_",
 		"mode": "train",
 		"product": "tram",
@@ -645,6 +708,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "D",
 				"public": true,
+				"filter": false,
 				"productName": "D",
 				"mode": "train",
 				"product": "train-and-s-bahn"
@@ -654,6 +718,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "EC",
 				"public": true,
+				"filter": false,
 				"productName": "EC",
 				"mode": "train",
 				"product": "train-and-s-bahn"
@@ -663,6 +728,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "EN",
 				"public": true,
+				"filter": false,
 				"productName": "EN",
 				"mode": "train",
 				"product": "train-and-s-bahn"
@@ -672,6 +738,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "IC",
 				"public": true,
+				"filter": false,
 				"productName": "IC",
 				"mode": "train",
 				"product": "train-and-s-bahn"
@@ -681,6 +748,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "NJ",
 				"public": true,
+				"filter": false,
 				"productName": "NJ",
 				"mode": "train",
 				"product": "train-and-s-bahn"
@@ -690,6 +758,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "R",
 				"public": true,
+				"filter": false,
 				"productName": "R",
 				"mode": "train",
 				"product": "train-and-s-bahn"
@@ -699,6 +768,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "REX",
 				"public": true,
+				"filter": false,
 				"productName": "REX",
 				"mode": "train",
 				"product": "train-and-s-bahn"
@@ -708,6 +778,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "RJ",
 				"public": true,
+				"filter": false,
 				"productName": "RJ",
 				"mode": "train",
 				"product": "train-and-s-bahn"
@@ -717,6 +788,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "SEV",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -725,6 +797,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "SV600",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -733,6 +806,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "S5",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -741,6 +815,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "S1",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -749,6 +824,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "S3",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -757,6 +833,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "S5",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -765,6 +842,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "S6",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -773,6 +851,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "S7",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -781,6 +860,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "S11",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -789,6 +869,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "S31",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -797,6 +878,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "S61",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -805,6 +887,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "1",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "tram"
 			}, {
@@ -813,6 +896,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "3",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "tram"
 			}, {
@@ -821,6 +905,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "4",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "tram"
 			}, {
@@ -829,6 +914,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "6",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "tram"
 			}, {
@@ -837,6 +923,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "7",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "tram"
 			}, {
@@ -845,6 +932,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "E",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "tram"
 			}, {
@@ -853,6 +941,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "ICB",
 				"public": true,
+				"filter": false,
 				"productName": "ICB",
 				"mode": "bus",
 				"product": "long-distance-bus"
@@ -862,6 +951,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "100",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -870,6 +960,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "110",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -878,6 +969,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "120",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -886,6 +978,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "121",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -894,6 +987,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "130",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -902,6 +996,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "140",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -910,6 +1005,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "200",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -918,6 +1014,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "201",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -926,6 +1023,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "250",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -934,6 +1032,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "300",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -942,6 +1041,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "350",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -950,6 +1050,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "470",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -958,6 +1059,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "630",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -966,6 +1068,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "710",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -974,6 +1077,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "711",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -982,6 +1086,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "712",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -990,6 +1095,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "B2",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -998,6 +1104,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "X30",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -1006,6 +1113,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "X31",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -1014,6 +1122,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "X40",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -1022,6 +1131,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "X41",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -1030,6 +1140,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "X50",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -1038,6 +1149,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "X81",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -1046,6 +1158,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "40",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -1054,6 +1167,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "48",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -1062,6 +1176,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "48S",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -1070,6 +1185,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "52",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -1078,6 +1194,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "52Z",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -1086,6 +1203,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "53",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -1094,6 +1212,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "58",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -1102,6 +1221,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "63",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -1110,6 +1230,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "67",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -1118,6 +1239,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "67E",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -1126,6 +1248,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "N1",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -1134,6 +1257,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "N2",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -1142,6 +1266,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "N7",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}]
@@ -1503,6 +1628,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "D",
 			"public": true,
+			"filter": false,
 			"productName": "D",
 			"mode": "train",
 			"product": "train-and-s-bahn"
@@ -1512,6 +1638,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "EC",
 			"public": true,
+			"filter": false,
 			"productName": "EC",
 			"mode": "train",
 			"product": "train-and-s-bahn"
@@ -1521,6 +1648,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "EN",
 			"public": true,
+			"filter": false,
 			"productName": "EN",
 			"mode": "train",
 			"product": "train-and-s-bahn"
@@ -1530,6 +1658,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "IC",
 			"public": true,
+			"filter": false,
 			"productName": "IC",
 			"mode": "train",
 			"product": "train-and-s-bahn"
@@ -1539,6 +1668,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "NJ",
 			"public": true,
+			"filter": false,
 			"productName": "NJ",
 			"mode": "train",
 			"product": "train-and-s-bahn"
@@ -1548,6 +1678,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "R",
 			"public": true,
+			"filter": false,
 			"productName": "R",
 			"mode": "train",
 			"product": "train-and-s-bahn"
@@ -1557,6 +1688,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "REX",
 			"public": true,
+			"filter": false,
 			"productName": "REX",
 			"mode": "train",
 			"product": "train-and-s-bahn"
@@ -1566,6 +1698,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "RJ",
 			"public": true,
+			"filter": false,
 			"productName": "RJ",
 			"mode": "train",
 			"product": "train-and-s-bahn"
@@ -1575,6 +1708,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "SEV",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -1583,6 +1717,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "SV600",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -1591,6 +1726,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "S5",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -1599,6 +1735,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "S1",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -1607,6 +1744,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "S3",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -1615,6 +1753,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "S5",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -1623,6 +1762,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "S6",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -1631,6 +1771,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "S7",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -1639,6 +1780,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "S11",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -1647,6 +1789,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "S31",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -1655,6 +1798,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "S61",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -1663,6 +1807,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "1",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "tram"
 		}, {
@@ -1671,6 +1816,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "3",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "tram"
 		}, {
@@ -1679,6 +1825,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "4",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "tram"
 		}, {
@@ -1687,6 +1834,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "6",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "tram"
 		}, {
@@ -1695,6 +1843,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "7",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "tram"
 		}, {
@@ -1703,6 +1852,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "E",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "tram"
 		}, {
@@ -1711,6 +1861,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "ICB",
 			"public": true,
+			"filter": false,
 			"productName": "ICB",
 			"mode": "bus",
 			"product": "long-distance-bus"
@@ -1720,6 +1871,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "100",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -1728,6 +1880,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "110",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -1736,6 +1889,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "120",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -1744,6 +1898,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "121",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -1752,6 +1907,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "130",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -1760,6 +1916,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "140",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -1768,6 +1925,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "200",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -1776,6 +1934,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "201",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -1784,6 +1943,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "250",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -1792,6 +1952,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "300",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -1800,6 +1961,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "350",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -1808,6 +1970,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "470",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -1816,6 +1979,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "630",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -1824,6 +1988,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "710",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -1832,6 +1997,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "711",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -1840,6 +2006,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "712",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -1848,6 +2015,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "B2",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -1856,6 +2024,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "X30",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -1864,6 +2033,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "X31",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -1872,6 +2042,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "X40",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -1880,6 +2051,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "X41",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -1888,6 +2060,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "X50",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -1896,6 +2069,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "X81",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -1904,6 +2078,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "40",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -1912,6 +2087,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "48",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -1920,6 +2096,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "48S",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -1928,6 +2105,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "52",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -1936,6 +2114,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "52Z",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -1944,6 +2123,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "53",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -1952,6 +2132,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "58",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -1960,6 +2141,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "63",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -1968,6 +2150,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "67",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -1976,6 +2159,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "67E",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -1984,6 +2168,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "N1",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -1992,6 +2177,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "N2",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -2000,6 +2186,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "N7",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}]
@@ -2018,6 +2205,7 @@ const stvDepartures = [{
 		"fahrtNr": "19249",
 		"name": "6",
 		"public": true,
+		"filter": true,
 		"adminCode": "s3300_",
 		"mode": "train",
 		"product": "tram",
@@ -2106,6 +2294,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "D",
 				"public": true,
+				"filter": false,
 				"productName": "D",
 				"mode": "train",
 				"product": "train-and-s-bahn"
@@ -2115,6 +2304,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "EC",
 				"public": true,
+				"filter": false,
 				"productName": "EC",
 				"mode": "train",
 				"product": "train-and-s-bahn"
@@ -2124,6 +2314,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "EN",
 				"public": true,
+				"filter": false,
 				"productName": "EN",
 				"mode": "train",
 				"product": "train-and-s-bahn"
@@ -2133,6 +2324,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "IC",
 				"public": true,
+				"filter": false,
 				"productName": "IC",
 				"mode": "train",
 				"product": "train-and-s-bahn"
@@ -2142,6 +2334,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "NJ",
 				"public": true,
+				"filter": false,
 				"productName": "NJ",
 				"mode": "train",
 				"product": "train-and-s-bahn"
@@ -2151,6 +2344,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "R",
 				"public": true,
+				"filter": false,
 				"productName": "R",
 				"mode": "train",
 				"product": "train-and-s-bahn"
@@ -2160,6 +2354,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "REX",
 				"public": true,
+				"filter": false,
 				"productName": "REX",
 				"mode": "train",
 				"product": "train-and-s-bahn"
@@ -2169,6 +2364,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "RJ",
 				"public": true,
+				"filter": false,
 				"productName": "RJ",
 				"mode": "train",
 				"product": "train-and-s-bahn"
@@ -2178,6 +2374,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "SEV",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -2186,6 +2383,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "SV600",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -2194,6 +2392,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "S5",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -2202,6 +2401,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "S1",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -2210,6 +2410,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "S3",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -2218,6 +2419,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "S5",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -2226,6 +2428,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "S6",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -2234,6 +2437,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "S7",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -2242,6 +2446,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "S11",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -2250,6 +2455,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "S31",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -2258,6 +2464,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "S61",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -2266,6 +2473,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "1",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "tram"
 			}, {
@@ -2274,6 +2482,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "3",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "tram"
 			}, {
@@ -2282,6 +2491,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "4",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "tram"
 			}, {
@@ -2290,6 +2500,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "6",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "tram"
 			}, {
@@ -2298,6 +2509,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "7",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "tram"
 			}, {
@@ -2306,6 +2518,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "E",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "tram"
 			}, {
@@ -2314,6 +2527,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "ICB",
 				"public": true,
+				"filter": false,
 				"productName": "ICB",
 				"mode": "bus",
 				"product": "long-distance-bus"
@@ -2323,6 +2537,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "100",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -2331,6 +2546,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "110",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -2339,6 +2555,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "120",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -2347,6 +2564,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "121",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -2355,6 +2573,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "130",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -2363,6 +2582,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "140",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -2371,6 +2591,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "200",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -2379,6 +2600,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "201",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -2387,6 +2609,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "250",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -2395,6 +2618,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "300",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -2403,6 +2627,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "350",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -2411,6 +2636,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "470",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -2419,6 +2645,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "630",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -2427,6 +2654,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "710",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -2435,6 +2663,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "711",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -2443,6 +2672,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "712",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -2451,6 +2681,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "B2",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -2459,6 +2690,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "X30",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -2467,6 +2699,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "X31",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -2475,6 +2708,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "X40",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -2483,6 +2717,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "X41",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -2491,6 +2726,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "X50",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -2499,6 +2735,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "X81",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -2507,6 +2744,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "40",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -2515,6 +2753,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "48",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -2523,6 +2762,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "48S",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -2531,6 +2771,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "52",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -2539,6 +2780,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "52Z",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -2547,6 +2789,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "53",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -2555,6 +2798,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "58",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -2563,6 +2807,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "63",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -2571,6 +2816,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "67",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -2579,6 +2825,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "67E",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -2587,6 +2834,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "N1",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -2595,6 +2843,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "N2",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -2603,6 +2852,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "N7",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}]
@@ -3464,6 +3714,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "D",
 			"public": true,
+			"filter": false,
 			"productName": "D",
 			"mode": "train",
 			"product": "train-and-s-bahn"
@@ -3473,6 +3724,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "EC",
 			"public": true,
+			"filter": false,
 			"productName": "EC",
 			"mode": "train",
 			"product": "train-and-s-bahn"
@@ -3482,6 +3734,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "EN",
 			"public": true,
+			"filter": false,
 			"productName": "EN",
 			"mode": "train",
 			"product": "train-and-s-bahn"
@@ -3491,6 +3744,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "IC",
 			"public": true,
+			"filter": false,
 			"productName": "IC",
 			"mode": "train",
 			"product": "train-and-s-bahn"
@@ -3500,6 +3754,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "NJ",
 			"public": true,
+			"filter": false,
 			"productName": "NJ",
 			"mode": "train",
 			"product": "train-and-s-bahn"
@@ -3509,6 +3764,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "R",
 			"public": true,
+			"filter": false,
 			"productName": "R",
 			"mode": "train",
 			"product": "train-and-s-bahn"
@@ -3518,6 +3774,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "REX",
 			"public": true,
+			"filter": false,
 			"productName": "REX",
 			"mode": "train",
 			"product": "train-and-s-bahn"
@@ -3527,6 +3784,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "RJ",
 			"public": true,
+			"filter": false,
 			"productName": "RJ",
 			"mode": "train",
 			"product": "train-and-s-bahn"
@@ -3536,6 +3794,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "SEV",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -3544,6 +3803,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "SV600",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -3552,6 +3812,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "S5",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -3560,6 +3821,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "S1",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -3568,6 +3830,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "S3",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -3576,6 +3839,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "S5",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -3584,6 +3848,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "S6",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -3592,6 +3857,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "S7",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -3600,6 +3866,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "S11",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -3608,6 +3875,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "S31",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -3616,6 +3884,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "S61",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -3624,6 +3893,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "1",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "tram"
 		}, {
@@ -3632,6 +3902,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "3",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "tram"
 		}, {
@@ -3640,6 +3911,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "4",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "tram"
 		}, {
@@ -3648,6 +3920,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "6",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "tram"
 		}, {
@@ -3656,6 +3929,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "7",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "tram"
 		}, {
@@ -3664,6 +3938,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "E",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "tram"
 		}, {
@@ -3672,6 +3947,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "ICB",
 			"public": true,
+			"filter": false,
 			"productName": "ICB",
 			"mode": "bus",
 			"product": "long-distance-bus"
@@ -3681,6 +3957,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "100",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -3689,6 +3966,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "110",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -3697,6 +3975,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "120",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -3705,6 +3984,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "121",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -3713,6 +3993,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "130",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -3721,6 +4002,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "140",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -3729,6 +4011,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "200",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -3737,6 +4020,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "201",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -3745,6 +4029,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "250",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -3753,6 +4038,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "300",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -3761,6 +4047,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "350",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -3769,6 +4056,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "470",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -3777,6 +4065,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "630",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -3785,6 +4074,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "710",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -3793,6 +4083,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "711",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -3801,6 +4092,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "712",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -3809,6 +4101,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "B2",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -3817,6 +4110,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "X30",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -3825,6 +4119,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "X31",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -3833,6 +4128,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "X40",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -3841,6 +4137,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "X41",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -3849,6 +4146,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "X50",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -3857,6 +4155,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "X81",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -3865,6 +4164,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "40",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -3873,6 +4173,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "48",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -3881,6 +4182,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "48S",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -3889,6 +4191,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "52",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -3897,6 +4200,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "52Z",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -3905,6 +4209,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "53",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -3913,6 +4218,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "58",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -3921,6 +4227,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "63",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -3929,6 +4236,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "67",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -3937,6 +4245,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "67E",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -3945,6 +4254,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "N1",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -3953,6 +4263,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "N2",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -3961,6 +4272,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "N7",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}]
@@ -3979,6 +4291,7 @@ const stvDepartures = [{
 		"fahrtNr": "30208",
 		"name": "52",
 		"public": true,
+		"filter": true,
 		"adminCode": "s3800_",
 		"mode": "bus",
 		"product": "city-bus",
@@ -4067,6 +4380,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "D",
 				"public": true,
+				"filter": false,
 				"productName": "D",
 				"mode": "train",
 				"product": "train-and-s-bahn"
@@ -4076,6 +4390,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "EC",
 				"public": true,
+				"filter": false,
 				"productName": "EC",
 				"mode": "train",
 				"product": "train-and-s-bahn"
@@ -4085,6 +4400,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "EN",
 				"public": true,
+				"filter": false,
 				"productName": "EN",
 				"mode": "train",
 				"product": "train-and-s-bahn"
@@ -4094,6 +4410,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "IC",
 				"public": true,
+				"filter": false,
 				"productName": "IC",
 				"mode": "train",
 				"product": "train-and-s-bahn"
@@ -4103,6 +4420,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "NJ",
 				"public": true,
+				"filter": false,
 				"productName": "NJ",
 				"mode": "train",
 				"product": "train-and-s-bahn"
@@ -4112,6 +4430,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "R",
 				"public": true,
+				"filter": false,
 				"productName": "R",
 				"mode": "train",
 				"product": "train-and-s-bahn"
@@ -4121,6 +4440,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "REX",
 				"public": true,
+				"filter": false,
 				"productName": "REX",
 				"mode": "train",
 				"product": "train-and-s-bahn"
@@ -4130,6 +4450,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "RJ",
 				"public": true,
+				"filter": false,
 				"productName": "RJ",
 				"mode": "train",
 				"product": "train-and-s-bahn"
@@ -4139,6 +4460,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "SEV",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -4147,6 +4469,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "SV600",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -4155,6 +4478,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "S5",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -4163,6 +4487,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "S1",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -4171,6 +4496,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "S3",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -4179,6 +4505,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "S5",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -4187,6 +4514,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "S6",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -4195,6 +4523,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "S7",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -4203,6 +4532,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "S11",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -4211,6 +4541,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "S31",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -4219,6 +4550,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "S61",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -4227,6 +4559,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "1",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "tram"
 			}, {
@@ -4235,6 +4568,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "3",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "tram"
 			}, {
@@ -4243,6 +4577,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "4",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "tram"
 			}, {
@@ -4251,6 +4586,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "6",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "tram"
 			}, {
@@ -4259,6 +4595,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "7",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "tram"
 			}, {
@@ -4267,6 +4604,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "E",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "tram"
 			}, {
@@ -4275,6 +4613,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "ICB",
 				"public": true,
+				"filter": false,
 				"productName": "ICB",
 				"mode": "bus",
 				"product": "long-distance-bus"
@@ -4284,6 +4623,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "100",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -4292,6 +4632,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "110",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -4300,6 +4641,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "120",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -4308,6 +4650,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "121",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -4316,6 +4659,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "130",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -4324,6 +4668,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "140",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -4332,6 +4677,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "200",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -4340,6 +4686,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "201",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -4348,6 +4695,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "250",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -4356,6 +4704,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "300",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -4364,6 +4713,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "350",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -4372,6 +4722,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "470",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -4380,6 +4731,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "630",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -4388,6 +4740,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "710",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -4396,6 +4749,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "711",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -4404,6 +4758,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "712",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -4412,6 +4767,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "B2",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -4420,6 +4776,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "X30",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -4428,6 +4785,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "X31",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -4436,6 +4794,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "X40",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -4444,6 +4803,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "X41",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -4452,6 +4812,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "X50",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -4460,6 +4821,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "X81",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -4468,6 +4830,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "40",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -4476,6 +4839,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "48",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -4484,6 +4848,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "48S",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -4492,6 +4857,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "52",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -4500,6 +4866,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "52Z",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -4508,6 +4875,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "53",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -4516,6 +4884,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "58",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -4524,6 +4893,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "63",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -4532,6 +4902,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "67",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -4540,6 +4911,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "67E",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -4548,6 +4920,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "N1",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -4556,6 +4929,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "N2",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -4564,6 +4938,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "N7",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}]
@@ -5125,6 +5500,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "D",
 			"public": true,
+			"filter": false,
 			"productName": "D",
 			"mode": "train",
 			"product": "train-and-s-bahn"
@@ -5134,6 +5510,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "EC",
 			"public": true,
+			"filter": false,
 			"productName": "EC",
 			"mode": "train",
 			"product": "train-and-s-bahn"
@@ -5143,6 +5520,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "EN",
 			"public": true,
+			"filter": false,
 			"productName": "EN",
 			"mode": "train",
 			"product": "train-and-s-bahn"
@@ -5152,6 +5530,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "IC",
 			"public": true,
+			"filter": false,
 			"productName": "IC",
 			"mode": "train",
 			"product": "train-and-s-bahn"
@@ -5161,6 +5540,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "NJ",
 			"public": true,
+			"filter": false,
 			"productName": "NJ",
 			"mode": "train",
 			"product": "train-and-s-bahn"
@@ -5170,6 +5550,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "R",
 			"public": true,
+			"filter": false,
 			"productName": "R",
 			"mode": "train",
 			"product": "train-and-s-bahn"
@@ -5179,6 +5560,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "REX",
 			"public": true,
+			"filter": false,
 			"productName": "REX",
 			"mode": "train",
 			"product": "train-and-s-bahn"
@@ -5188,6 +5570,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "RJ",
 			"public": true,
+			"filter": false,
 			"productName": "RJ",
 			"mode": "train",
 			"product": "train-and-s-bahn"
@@ -5197,6 +5580,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "SEV",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -5205,6 +5589,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "SV600",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -5213,6 +5598,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "S5",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -5221,6 +5607,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "S1",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -5229,6 +5616,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "S3",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -5237,6 +5625,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "S5",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -5245,6 +5634,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "S6",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -5253,6 +5643,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "S7",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -5261,6 +5652,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "S11",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -5269,6 +5661,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "S31",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -5277,6 +5670,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "S61",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -5285,6 +5679,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "1",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "tram"
 		}, {
@@ -5293,6 +5688,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "3",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "tram"
 		}, {
@@ -5301,6 +5697,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "4",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "tram"
 		}, {
@@ -5309,6 +5706,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "6",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "tram"
 		}, {
@@ -5317,6 +5715,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "7",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "tram"
 		}, {
@@ -5325,6 +5724,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "E",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "tram"
 		}, {
@@ -5333,6 +5733,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "ICB",
 			"public": true,
+			"filter": false,
 			"productName": "ICB",
 			"mode": "bus",
 			"product": "long-distance-bus"
@@ -5342,6 +5743,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "100",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -5350,6 +5752,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "110",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -5358,6 +5761,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "120",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -5366,6 +5770,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "121",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -5374,6 +5779,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "130",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -5382,6 +5788,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "140",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -5390,6 +5797,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "200",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -5398,6 +5806,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "201",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -5406,6 +5815,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "250",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -5414,6 +5824,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "300",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -5422,6 +5833,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "350",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -5430,6 +5842,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "470",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -5438,6 +5851,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "630",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -5446,6 +5860,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "710",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -5454,6 +5869,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "711",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -5462,6 +5878,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "712",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -5470,6 +5887,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "B2",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -5478,6 +5896,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "X30",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -5486,6 +5905,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "X31",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -5494,6 +5914,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "X40",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -5502,6 +5923,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "X41",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -5510,6 +5932,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "X50",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -5518,6 +5941,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "X81",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -5526,6 +5950,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "40",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -5534,6 +5959,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "48",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -5542,6 +5968,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "48S",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -5550,6 +5977,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "52",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -5558,6 +5986,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "52Z",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -5566,6 +5995,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "53",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -5574,6 +6004,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "58",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -5582,6 +6013,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "63",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -5590,6 +6022,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "67",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -5598,6 +6031,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "67E",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -5606,6 +6040,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "N1",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -5614,6 +6049,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "N2",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -5622,6 +6058,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "N7",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}]
@@ -5640,6 +6077,7 @@ const stvDepartures = [{
 		"fahrtNr": "50081",
 		"name": "63",
 		"public": true,
+		"filter": true,
 		"adminCode": "s3800_",
 		"mode": "bus",
 		"product": "city-bus",
@@ -5727,6 +6165,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "D",
 				"public": true,
+				"filter": false,
 				"productName": "D",
 				"mode": "train",
 				"product": "train-and-s-bahn"
@@ -5736,6 +6175,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "EC",
 				"public": true,
+				"filter": false,
 				"productName": "EC",
 				"mode": "train",
 				"product": "train-and-s-bahn"
@@ -5745,6 +6185,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "EN",
 				"public": true,
+				"filter": false,
 				"productName": "EN",
 				"mode": "train",
 				"product": "train-and-s-bahn"
@@ -5754,6 +6195,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "IC",
 				"public": true,
+				"filter": false,
 				"productName": "IC",
 				"mode": "train",
 				"product": "train-and-s-bahn"
@@ -5763,6 +6205,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "NJ",
 				"public": true,
+				"filter": false,
 				"productName": "NJ",
 				"mode": "train",
 				"product": "train-and-s-bahn"
@@ -5772,6 +6215,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "R",
 				"public": true,
+				"filter": false,
 				"productName": "R",
 				"mode": "train",
 				"product": "train-and-s-bahn"
@@ -5781,6 +6225,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "REX",
 				"public": true,
+				"filter": false,
 				"productName": "REX",
 				"mode": "train",
 				"product": "train-and-s-bahn"
@@ -5790,6 +6235,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "RJ",
 				"public": true,
+				"filter": false,
 				"productName": "RJ",
 				"mode": "train",
 				"product": "train-and-s-bahn"
@@ -5799,6 +6245,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "SEV",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -5807,6 +6254,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "SV600",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -5815,6 +6263,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "S5",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -5823,6 +6272,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "S1",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -5831,6 +6281,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "S3",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -5839,6 +6290,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "S5",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -5847,6 +6299,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "S6",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -5855,6 +6308,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "S7",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -5863,6 +6317,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "S11",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -5871,6 +6326,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "S31",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -5879,6 +6335,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "S61",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -5887,6 +6344,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "1",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "tram"
 			}, {
@@ -5895,6 +6353,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "3",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "tram"
 			}, {
@@ -5903,6 +6362,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "4",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "tram"
 			}, {
@@ -5911,6 +6371,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "6",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "tram"
 			}, {
@@ -5919,6 +6380,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "7",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "tram"
 			}, {
@@ -5927,6 +6389,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "E",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "tram"
 			}, {
@@ -5935,6 +6398,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "ICB",
 				"public": true,
+				"filter": false,
 				"productName": "ICB",
 				"mode": "bus",
 				"product": "long-distance-bus"
@@ -5944,6 +6408,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "100",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -5952,6 +6417,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "110",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -5960,6 +6426,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "120",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -5968,6 +6435,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "121",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -5976,6 +6444,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "130",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -5984,6 +6453,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "140",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -5992,6 +6462,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "200",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -6000,6 +6471,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "201",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -6008,6 +6480,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "250",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -6016,6 +6489,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "300",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -6024,6 +6498,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "350",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -6032,6 +6507,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "470",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -6040,6 +6516,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "630",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -6048,6 +6525,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "710",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -6056,6 +6534,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "711",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -6064,6 +6543,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "712",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -6072,6 +6552,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "B2",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -6080,6 +6561,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "X30",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -6088,6 +6570,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "X31",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -6096,6 +6579,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "X40",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -6104,6 +6588,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "X41",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -6112,6 +6597,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "X50",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -6120,6 +6606,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "X81",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -6128,6 +6615,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "40",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -6136,6 +6624,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "48",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -6144,6 +6633,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "48S",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -6152,6 +6642,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "52",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -6160,6 +6651,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "52Z",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -6168,6 +6660,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "53",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -6176,6 +6669,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "58",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -6184,6 +6678,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "63",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -6192,6 +6687,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "67",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -6200,6 +6696,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "67E",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -6208,6 +6705,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "N1",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -6216,6 +6714,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "N2",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -6224,6 +6723,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "N7",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}]
@@ -7235,6 +7735,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "D",
 			"public": true,
+			"filter": false,
 			"productName": "D",
 			"mode": "train",
 			"product": "train-and-s-bahn"
@@ -7244,6 +7745,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "EC",
 			"public": true,
+			"filter": false,
 			"productName": "EC",
 			"mode": "train",
 			"product": "train-and-s-bahn"
@@ -7253,6 +7755,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "EN",
 			"public": true,
+			"filter": false,
 			"productName": "EN",
 			"mode": "train",
 			"product": "train-and-s-bahn"
@@ -7262,6 +7765,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "IC",
 			"public": true,
+			"filter": false,
 			"productName": "IC",
 			"mode": "train",
 			"product": "train-and-s-bahn"
@@ -7271,6 +7775,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "NJ",
 			"public": true,
+			"filter": false,
 			"productName": "NJ",
 			"mode": "train",
 			"product": "train-and-s-bahn"
@@ -7280,6 +7785,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "R",
 			"public": true,
+			"filter": false,
 			"productName": "R",
 			"mode": "train",
 			"product": "train-and-s-bahn"
@@ -7289,6 +7795,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "REX",
 			"public": true,
+			"filter": false,
 			"productName": "REX",
 			"mode": "train",
 			"product": "train-and-s-bahn"
@@ -7298,6 +7805,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "RJ",
 			"public": true,
+			"filter": false,
 			"productName": "RJ",
 			"mode": "train",
 			"product": "train-and-s-bahn"
@@ -7307,6 +7815,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "SEV",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -7315,6 +7824,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "SV600",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -7323,6 +7833,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "S5",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -7331,6 +7842,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "S1",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -7339,6 +7851,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "S3",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -7347,6 +7860,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "S5",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -7355,6 +7869,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "S6",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -7363,6 +7878,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "S7",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -7371,6 +7887,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "S11",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -7379,6 +7896,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "S31",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -7387,6 +7905,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "S61",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -7395,6 +7914,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "1",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "tram"
 		}, {
@@ -7403,6 +7923,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "3",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "tram"
 		}, {
@@ -7411,6 +7932,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "4",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "tram"
 		}, {
@@ -7419,6 +7941,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "6",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "tram"
 		}, {
@@ -7427,6 +7950,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "7",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "tram"
 		}, {
@@ -7435,6 +7959,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "E",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "tram"
 		}, {
@@ -7443,6 +7968,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "ICB",
 			"public": true,
+			"filter": false,
 			"productName": "ICB",
 			"mode": "bus",
 			"product": "long-distance-bus"
@@ -7452,6 +7978,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "100",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -7460,6 +7987,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "110",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -7468,6 +7996,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "120",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -7476,6 +8005,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "121",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -7484,6 +8014,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "130",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -7492,6 +8023,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "140",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -7500,6 +8032,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "200",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -7508,6 +8041,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "201",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -7516,6 +8050,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "250",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -7524,6 +8059,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "300",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -7532,6 +8068,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "350",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -7540,6 +8077,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "470",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -7548,6 +8086,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "630",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -7556,6 +8095,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "710",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -7564,6 +8104,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "711",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -7572,6 +8113,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "712",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -7580,6 +8122,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "B2",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -7588,6 +8131,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "X30",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -7596,6 +8140,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "X31",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -7604,6 +8149,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "X40",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -7612,6 +8158,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "X41",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -7620,6 +8167,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "X50",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -7628,6 +8176,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "X81",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -7636,6 +8185,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "40",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -7644,6 +8194,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "48",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -7652,6 +8203,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "48S",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -7660,6 +8212,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "52",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -7668,6 +8221,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "52Z",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -7676,6 +8230,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "53",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -7684,6 +8239,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "58",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -7692,6 +8248,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "63",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -7700,6 +8257,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "67",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -7708,6 +8266,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "67E",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -7716,6 +8275,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "N1",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -7724,6 +8284,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "N2",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -7732,6 +8293,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "N7",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}]
@@ -7750,6 +8312,7 @@ const stvDepartures = [{
 		"fahrtNr": "5073",
 		"name": "712",
 		"public": true,
+		"filter": true,
 		"adminCode": "s94BZ9",
 		"mode": "bus",
 		"product": "regional-bus",
@@ -7803,6 +8366,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "D",
 			"public": true,
+			"filter": false,
 			"productName": "D",
 			"mode": "train",
 			"product": "train-and-s-bahn"
@@ -7812,6 +8376,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "EC",
 			"public": true,
+			"filter": false,
 			"productName": "EC",
 			"mode": "train",
 			"product": "train-and-s-bahn"
@@ -7821,6 +8386,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "EN",
 			"public": true,
+			"filter": false,
 			"productName": "EN",
 			"mode": "train",
 			"product": "train-and-s-bahn"
@@ -7830,6 +8396,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "IC",
 			"public": true,
+			"filter": false,
 			"productName": "IC",
 			"mode": "train",
 			"product": "train-and-s-bahn"
@@ -7839,6 +8406,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "NJ",
 			"public": true,
+			"filter": false,
 			"productName": "NJ",
 			"mode": "train",
 			"product": "train-and-s-bahn"
@@ -7848,6 +8416,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "R",
 			"public": true,
+			"filter": false,
 			"productName": "R",
 			"mode": "train",
 			"product": "train-and-s-bahn"
@@ -7857,6 +8426,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "REX",
 			"public": true,
+			"filter": false,
 			"productName": "REX",
 			"mode": "train",
 			"product": "train-and-s-bahn"
@@ -7866,6 +8436,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "RJ",
 			"public": true,
+			"filter": false,
 			"productName": "RJ",
 			"mode": "train",
 			"product": "train-and-s-bahn"
@@ -7875,6 +8446,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "SEV",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -7883,6 +8455,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "SV600",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -7891,6 +8464,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "S5",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -7899,6 +8473,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "S1",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -7907,6 +8482,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "S3",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -7915,6 +8491,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "S5",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -7923,6 +8500,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "S6",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -7931,6 +8509,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "S7",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -7939,6 +8518,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "S11",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -7947,6 +8527,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "S31",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -7955,6 +8536,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "S61",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "train-and-s-bahn"
 		}, {
@@ -7963,6 +8545,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "1",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "tram"
 		}, {
@@ -7971,6 +8554,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "3",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "tram"
 		}, {
@@ -7979,6 +8563,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "4",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "tram"
 		}, {
@@ -7987,6 +8572,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "6",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "tram"
 		}, {
@@ -7995,6 +8581,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "7",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "tram"
 		}, {
@@ -8003,6 +8590,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "E",
 			"public": true,
+			"filter": true,
 			"mode": "train",
 			"product": "tram"
 		}, {
@@ -8011,6 +8599,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "ICB",
 			"public": true,
+			"filter": false,
 			"productName": "ICB",
 			"mode": "bus",
 			"product": "long-distance-bus"
@@ -8020,6 +8609,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "100",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -8028,6 +8618,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "110",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -8036,6 +8627,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "120",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -8044,6 +8636,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "121",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -8052,6 +8645,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "130",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -8060,6 +8654,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "140",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -8068,6 +8663,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "200",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -8076,6 +8672,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "201",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -8084,6 +8681,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "250",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -8092,6 +8690,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "300",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -8100,6 +8699,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "350",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -8108,6 +8708,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "470",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -8116,6 +8717,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "630",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -8124,6 +8726,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "710",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -8132,6 +8735,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "711",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -8140,6 +8744,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "712",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -8148,6 +8753,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "B2",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -8156,6 +8762,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "X30",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -8164,6 +8771,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "X31",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -8172,6 +8780,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "X40",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -8180,6 +8789,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "X41",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -8188,6 +8798,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "X50",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -8196,6 +8807,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "X81",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "regional-bus"
 		}, {
@@ -8204,6 +8816,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "40",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -8212,6 +8825,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "48",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -8220,6 +8834,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "48S",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -8228,6 +8843,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "52",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -8236,6 +8852,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "52Z",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -8244,6 +8861,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "53",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -8252,6 +8870,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "58",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -8260,6 +8879,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "63",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -8268,6 +8888,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "67",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -8276,6 +8897,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "67E",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -8284,6 +8906,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "N1",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -8292,6 +8915,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "N2",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}, {
@@ -8300,6 +8924,7 @@ const stvDepartures = [{
 			"fahrtNr": null,
 			"name": "N7",
 			"public": true,
+			"filter": true,
 			"mode": "bus",
 			"product": "city-bus"
 		}]
@@ -8347,6 +8972,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "D",
 				"public": true,
+				"filter": false,
 				"productName": "D",
 				"mode": "train",
 				"product": "train-and-s-bahn"
@@ -8356,6 +8982,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "EC",
 				"public": true,
+				"filter": false,
 				"productName": "EC",
 				"mode": "train",
 				"product": "train-and-s-bahn"
@@ -8365,6 +8992,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "EN",
 				"public": true,
+				"filter": false,
 				"productName": "EN",
 				"mode": "train",
 				"product": "train-and-s-bahn"
@@ -8374,6 +9002,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "IC",
 				"public": true,
+				"filter": false,
 				"productName": "IC",
 				"mode": "train",
 				"product": "train-and-s-bahn"
@@ -8383,6 +9012,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "NJ",
 				"public": true,
+				"filter": false,
 				"productName": "NJ",
 				"mode": "train",
 				"product": "train-and-s-bahn"
@@ -8392,6 +9022,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "R",
 				"public": true,
+				"filter": false,
 				"productName": "R",
 				"mode": "train",
 				"product": "train-and-s-bahn"
@@ -8401,6 +9032,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "REX",
 				"public": true,
+				"filter": false,
 				"productName": "REX",
 				"mode": "train",
 				"product": "train-and-s-bahn"
@@ -8410,6 +9042,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "RJ",
 				"public": true,
+				"filter": false,
 				"productName": "RJ",
 				"mode": "train",
 				"product": "train-and-s-bahn"
@@ -8419,6 +9052,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "SEV",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -8427,6 +9061,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "SV600",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -8435,6 +9070,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "S5",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -8443,6 +9079,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "S1",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -8451,6 +9088,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "S3",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -8459,6 +9097,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "S5",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -8467,6 +9106,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "S6",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -8475,6 +9115,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "S7",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -8483,6 +9124,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "S11",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -8491,6 +9133,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "S31",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -8499,6 +9142,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "S61",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -8507,6 +9151,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "1",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "tram"
 			}, {
@@ -8515,6 +9160,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "3",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "tram"
 			}, {
@@ -8523,6 +9169,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "4",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "tram"
 			}, {
@@ -8531,6 +9178,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "6",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "tram"
 			}, {
@@ -8539,6 +9187,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "7",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "tram"
 			}, {
@@ -8547,6 +9196,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "E",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "tram"
 			}, {
@@ -8555,6 +9205,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "ICB",
 				"public": true,
+				"filter": false,
 				"productName": "ICB",
 				"mode": "bus",
 				"product": "long-distance-bus"
@@ -8564,6 +9215,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "100",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -8572,6 +9224,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "110",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -8580,6 +9233,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "120",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -8588,6 +9242,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "121",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -8596,6 +9251,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "130",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -8604,6 +9260,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "140",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -8612,6 +9269,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "200",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -8620,6 +9278,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "201",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -8628,6 +9287,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "250",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -8636,6 +9296,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "300",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -8644,6 +9305,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "350",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -8652,6 +9314,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "470",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -8660,6 +9323,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "630",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -8668,6 +9332,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "710",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -8676,6 +9341,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "711",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -8684,6 +9350,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "712",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -8692,6 +9359,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "B2",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -8700,6 +9368,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "X30",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -8708,6 +9377,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "X31",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -8716,6 +9386,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "X40",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -8724,6 +9395,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "X41",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -8732,6 +9404,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "X50",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -8740,6 +9413,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "X81",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -8748,6 +9422,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "40",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -8756,6 +9431,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "48",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -8764,6 +9440,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "48S",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -8772,6 +9449,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "52",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -8780,6 +9458,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "52Z",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -8788,6 +9467,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "53",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -8796,6 +9476,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "58",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -8804,6 +9485,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "63",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -8812,6 +9494,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "67",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -8820,6 +9503,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "67E",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -8828,6 +9512,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "N1",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -8836,6 +9521,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "N2",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -8844,6 +9530,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "N7",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}]
@@ -11903,6 +12590,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "D",
 				"public": true,
+				"filter": false,
 				"productName": "D",
 				"mode": "train",
 				"product": "train-and-s-bahn"
@@ -11912,6 +12600,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "EC",
 				"public": true,
+				"filter": false,
 				"productName": "EC",
 				"mode": "train",
 				"product": "train-and-s-bahn"
@@ -11921,6 +12610,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "EN",
 				"public": true,
+				"filter": false,
 				"productName": "EN",
 				"mode": "train",
 				"product": "train-and-s-bahn"
@@ -11930,6 +12620,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "IC",
 				"public": true,
+				"filter": false,
 				"productName": "IC",
 				"mode": "train",
 				"product": "train-and-s-bahn"
@@ -11939,6 +12630,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "NJ",
 				"public": true,
+				"filter": false,
 				"productName": "NJ",
 				"mode": "train",
 				"product": "train-and-s-bahn"
@@ -11948,6 +12640,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "R",
 				"public": true,
+				"filter": false,
 				"productName": "R",
 				"mode": "train",
 				"product": "train-and-s-bahn"
@@ -11957,6 +12650,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "REX",
 				"public": true,
+				"filter": false,
 				"productName": "REX",
 				"mode": "train",
 				"product": "train-and-s-bahn"
@@ -11966,6 +12660,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "RJ",
 				"public": true,
+				"filter": false,
 				"productName": "RJ",
 				"mode": "train",
 				"product": "train-and-s-bahn"
@@ -11975,6 +12670,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "SEV",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -11983,6 +12679,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "SV600",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -11991,6 +12688,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "S5",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -11999,6 +12697,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "S1",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -12007,6 +12706,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "S3",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -12015,6 +12715,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "S5",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -12023,6 +12724,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "S6",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -12031,6 +12733,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "S7",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -12039,6 +12742,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "S11",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -12047,6 +12751,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "S31",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -12055,6 +12760,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "S61",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "train-and-s-bahn"
 			}, {
@@ -12063,6 +12769,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "1",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "tram"
 			}, {
@@ -12071,6 +12778,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "3",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "tram"
 			}, {
@@ -12079,6 +12787,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "4",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "tram"
 			}, {
@@ -12087,6 +12796,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "6",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "tram"
 			}, {
@@ -12095,6 +12805,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "7",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "tram"
 			}, {
@@ -12103,6 +12814,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "E",
 				"public": true,
+				"filter": true,
 				"mode": "train",
 				"product": "tram"
 			}, {
@@ -12111,6 +12823,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "ICB",
 				"public": true,
+				"filter": false,
 				"productName": "ICB",
 				"mode": "bus",
 				"product": "long-distance-bus"
@@ -12120,6 +12833,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "100",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -12128,6 +12842,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "110",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -12136,6 +12851,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "120",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -12144,6 +12860,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "121",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -12152,6 +12869,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "130",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -12160,6 +12878,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "140",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -12168,6 +12887,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "200",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -12176,6 +12896,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "201",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -12184,6 +12905,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "250",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -12192,6 +12914,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "300",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -12200,6 +12923,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "350",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -12208,6 +12932,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "470",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -12216,6 +12941,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "630",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -12224,6 +12950,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "710",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -12232,6 +12959,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "711",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -12240,6 +12968,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "712",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -12248,6 +12977,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "B2",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -12256,6 +12986,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "X30",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -12264,6 +12995,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "X31",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -12272,6 +13004,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "X40",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -12280,6 +13013,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "X41",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -12288,6 +13022,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "X50",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -12296,6 +13031,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "X81",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "regional-bus"
 			}, {
@@ -12304,6 +13040,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "40",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -12312,6 +13049,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "48",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -12320,6 +13058,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "48S",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -12328,6 +13067,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "52",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -12336,6 +13076,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "52Z",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -12344,6 +13085,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "53",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -12352,6 +13094,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "58",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -12360,6 +13103,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "63",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -12368,6 +13112,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "67",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -12376,6 +13121,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "67E",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -12384,6 +13130,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "N1",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -12392,6 +13139,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "N2",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}, {
@@ -12400,6 +13148,7 @@ const stvDepartures = [{
 				"fahrtNr": null,
 				"name": "N7",
 				"public": true,
+				"filter": true,
 				"mode": "bus",
 				"product": "city-bus"
 			}]

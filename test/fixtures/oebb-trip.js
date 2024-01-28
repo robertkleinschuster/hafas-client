@@ -112,6 +112,7 @@ const oebbTrip = {
 		fahrtNr: '742',
 		name: 'RJ 742',
 		public: true,
+		filter: false,
 		adminCode: '81____',
 		productName: 'RJ',
 		mode: 'train',

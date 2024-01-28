@@ -31,6 +31,7 @@ tap.test('parses lines correctly', (t) => {
 		fahrtNr: 123,
 		name: 'foo line',
 		public: true,
+		filter: true,
 		adminCode: 'foo---',
 	}
 
@@ -47,7 +48,7 @@ tap.test('parses lines correctly', (t) => {
 	t.same(parse(ctx, {
 		...input, prodCtx: {...input.prodCtx, lineId: null}
 	}), {
-		...expected, id: 'foo-line'
+		...expected, id: 'foo-line', filter: false
 	})
 	// no prodCtx
 	t.same(parse(ctx, {
@@ -58,6 +59,7 @@ tap.test('parses lines correctly', (t) => {
 		]),
 		id: 'foo-line',
 		fahrtNr: null,
+		filter: false,
 	})
 	t.end()
 })

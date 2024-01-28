@@ -41,6 +41,7 @@ tap.test('parses a line correctly (mobiliteit.lu)', (t) => {
 		fahrtNr: '108',
 		name: 'IC 108',
 		public: true,
+		filter: false,
 		adminCode: 'C88---',
 		productName: 'IC',
 		mode: 'train',

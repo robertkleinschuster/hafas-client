@@ -695,6 +695,7 @@ const bvgJourney = {
 			fahrtNr: '14825',
 			name: 'S2',
 			public: true,
+			filter: false,
 			adminCode: 'DBS---',
 			productName: 'S',
 			mode: 'train',

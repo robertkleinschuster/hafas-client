@@ -52,6 +52,7 @@ const dbArrivals = [
 						fahrtNr: null,
 						name: 'Bus RE6',
 						public: true,
+						filter: true,
 						mode: 'train',
 						product: 'regional'
 					},
@@ -61,6 +62,7 @@ const dbArrivals = [
 						fahrtNr: null,
 						name: 'Bus SEV',
 						public: true,
+						filter: true,
 						mode: 'train',
 						product: 'regional'
 					},
@@ -70,6 +72,7 @@ const dbArrivals = [
 						fahrtNr: null,
 						name: 'RB',
 						public: true,
+						filter: false,
 						mode: 'train',
 						product: 'regional'
 					},
@@ -79,6 +82,7 @@ const dbArrivals = [
 						fahrtNr: null,
 						name: 'RE',
 						public: true,
+						filter: false,
 						mode: 'train',
 						product: 'regional'
 					},
@@ -88,6 +92,7 @@ const dbArrivals = [
 						fahrtNr: null,
 						name: 'RE',
 						public: true,
+						filter: false,
 						mode: 'train',
 						product: 'regional'
 					},
@@ -97,6 +102,7 @@ const dbArrivals = [
 						fahrtNr: null,
 						name: 'S 2',
 						public: true,
+						filter: true,
 						mode: 'train',
 						product: 'suburban'
 					},
@@ -106,6 +112,7 @@ const dbArrivals = [
 						fahrtNr: null,
 						name: 'S 25',
 						public: true,
+						filter: true,
 						mode: 'train',
 						product: 'suburban'
 					},
@@ -115,6 +122,7 @@ const dbArrivals = [
 						fahrtNr: null,
 						name: 'S 41',
 						public: true,
+						filter: true,
 						mode: 'train',
 						product: 'suburban'
 					},
@@ -124,6 +132,7 @@ const dbArrivals = [
 						fahrtNr: null,
 						name: 'S 42',
 						public: true,
+						filter: true,
 						mode: 'train',
 						product: 'suburban'
 					},
@@ -133,6 +142,7 @@ const dbArrivals = [
 						fahrtNr: null,
 						name: 'S 46',
 						public: true,
+						filter: true,
 						mode: 'train',
 						product: 'suburban'
 					},
@@ -142,6 +152,7 @@ const dbArrivals = [
 						fahrtNr: null,
 						name: 'Bus N7',
 						public: true,
+						filter: true,
 						mode: 'bus',
 						product: 'bus'
 					},
@@ -151,6 +162,7 @@ const dbArrivals = [
 						fahrtNr: null,
 						name: 'Bus X9',
 						public: true,
+						filter: true,
 						mode: 'bus',
 						product: 'bus'
 					},
@@ -160,6 +172,7 @@ const dbArrivals = [
 						fahrtNr: null,
 						name: 'Bus 109',
 						public: true,
+						filter: true,
 						mode: 'bus',
 						product: 'bus'
 					},
@@ -169,6 +182,7 @@ const dbArrivals = [
 						fahrtNr: null,
 						name: 'Bus M21',
 						public: true,
+						filter: true,
 						mode: 'bus',
 						product: 'bus'
 					},
@@ -178,6 +192,7 @@ const dbArrivals = [
 						fahrtNr: null,
 						name: 'Bus M27',
 						public: true,
+						filter: true,
 						mode: 'bus',
 						product: 'bus'
 					},
@@ -187,6 +202,7 @@ const dbArrivals = [
 						fahrtNr: null,
 						name: 'U 7',
 						public: true,
+						filter: true,
 						mode: 'train',
 						product: 'subway'
 					}
@@ -199,6 +215,7 @@ const dbArrivals = [
 					fahrtNr: null,
 					name: 'Bus N7',
 					public: true,
+					filter: true,
 					mode: 'bus',
 					product: 'bus'
 				},
@@ -208,6 +225,7 @@ const dbArrivals = [
 					fahrtNr: null,
 					name: 'Bus X9',
 					public: true,
+					filter: true,
 					mode: 'bus',
 					product: 'bus'
 				},
@@ -217,6 +235,7 @@ const dbArrivals = [
 					fahrtNr: null,
 					name: 'Bus M21',
 					public: true,
+					filter: true,
 					mode: 'bus',
 					product: 'bus'
 				},
@@ -226,6 +245,7 @@ const dbArrivals = [
 					fahrtNr: null,
 					name: 'Bus M27',
 					public: true,
+					filter: true,
 					mode: 'bus',
 					product: 'bus'
 				},
@@ -235,6 +255,7 @@ const dbArrivals = [
 					fahrtNr: null,
 					name: 'U 7',
 					public: true,
+					filter: true,
 					mode: 'train',
 					product: 'subway'
 				}
@@ -256,6 +277,7 @@ const dbArrivals = [
 			fahrtNr: '19245',
 			name: 'U 7',
 			public: true,
+			filter: true,
 			adminCode: 'vbbBVU',
 			productName: 'U',
 			mode: 'train',

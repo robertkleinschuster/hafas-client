@@ -43,7 +43,8 @@ const vsnRemarks = [
 				id: 'bus-x15',
 				fahrtNr: null,
 				name: 'Bus X15',
-				public: true
+				public: true,
+				filter: false
 			}
 		],
 		validFrom: '2020-02-03T11:11:00+01:00',
@@ -96,14 +97,16 @@ const vsnRemarks = [
 				id: 'bus-554',
 				fahrtNr: null,
 				name: 'Bus 554',
-				public: true
+				public: true,
+				filter: false,
 			},
 			{
 				type: 'line',
 				id: 'bus-556',
 				fahrtNr: null,
 				name: 'Bus 556',
-				public: true
+				public: true,
+				filter: false
 			}
 		],
 		validFrom: '2019-12-15T00:00:00+01:00',
@@ -156,21 +159,24 @@ const vsnRemarks = [
 				id: 'bus-509',
 				fahrtNr: null,
 				name: 'Bus 509',
-				public: true
+				public: true,
+				filter: false,
 			},
 			{
 				type: 'line',
 				id: 'bus-554',
 				fahrtNr: null,
 				name: 'Bus 554',
-				public: true
+				public: true,
+				filter: false,
 			},
 			{
 				type: 'line',
 				id: 'bus-556',
 				fahrtNr: null,
 				name: 'Bus 556',
-				public: true
+				public: true,
+				filter: false,
 			}
 		],
 		validFrom: '2019-12-15T00:00:00+01:00',
@@ -224,28 +230,32 @@ const vsnRemarks = [
 				id: 'bus-91',
 				fahrtNr: null,
 				name: 'Bus 91',
-				public: true
+				public: true,
+				filter: false,
 			},
 			{
 				type: 'line',
 				id: 'bus-92',
 				fahrtNr: null,
 				name: 'Bus 92',
-				public: true
+				public: true,
+				filter: false,
 			},
 			{
 				type: 'line',
 				id: 'bus-94',
 				fahrtNr: null,
 				name: 'Bus 94',
-				public: true
+				public: true,
+				filter: false,
 			},
 			{
 				type: 'line',
 				id: 'bus-n7',
 				fahrtNr: null,
 				name: 'Bus N7',
-				public: true
+				public: true,
+				filter: false,
 			}
 		],
 		validFrom: '2020-02-21T11:31:00+01:00',
@@ -299,28 +309,32 @@ const vsnRemarks = [
 				id: 'bus-91',
 				fahrtNr: null,
 				name: 'Bus 91',
-				public: true
+				public: true,
+				filter: false,
 			},
 			{
 				type: 'line',
 				id: 'bus-92',
 				fahrtNr: null,
 				name: 'Bus 92',
-				public: true
+				public: true,
+				filter: false,
 			},
 			{
 				type: 'line',
 				id: 'bus-94',
 				fahrtNr: null,
 				name: 'Bus 94',
-				public: true
+				public: true,
+				filter: false,
 			},
 			{
 				type: 'line',
 				id: 'bus-n7',
 				fahrtNr: null,
 				name: 'Bus N7',
-				public: true
+				public: true,
+				filter: false,
 			}
 		],
 		validFrom: '2020-02-21T11:01:00+01:00',

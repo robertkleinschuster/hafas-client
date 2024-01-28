@@ -1,4 +1,3 @@
-
 import {parseHook} from '../../lib/profile-hooks.js'
 
 import {parseAndAddLocationDHID} from '../vbb/parse-loc-dhid.js'
@@ -97,6 +96,7 @@ const parseJourneyLegWithBerlkönig = (ctx, leg, date) => {
 				// todo: fahrtNr?
 				name: mcpData.providerName,
 				public: true,
+				filter: false,
 				mode: 'taxi',
 				product: 'berlkoenig'
 				// todo: operator

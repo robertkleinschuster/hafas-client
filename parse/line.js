@@ -14,7 +14,8 @@ const parseLine = ({profile}, p) => {
 		// todo: what is p.prodCtx.matchId? use as `id`? expose it.
 		fahrtNr: p.prodCtx && p.prodCtx.num || null,
 		name,
-		public: true
+		public: true,
+		filter: Boolean(p.prodCtx?.lineId)
 	}
 	// todo: what is p.number?
 	// todo: what is p.prodCtx.catCode?

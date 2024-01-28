@@ -85,6 +85,7 @@ const vsnDepartures = {
 		fahrtNr: '2315',
 		name: 'IC 2315',
 		public: true,
+		filter: true,
 		adminCode: '80____',
 		productName: 'IC',
 		mode: 'train',

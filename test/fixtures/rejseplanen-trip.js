@@ -12,6 +12,7 @@ const rejseplanenTrip = {
 		fahrtNr: '71160',
 		name: 'IC 71160',
 		public: true,
+		filter: false,
 		adminCode: '000002',
 		productName: 'IC',
 		mode: 'train',

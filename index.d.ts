@@ -130,6 +130,7 @@ export interface Line {
     additionalName?: string;
     product?: string;
     public?: boolean;
+    filter?: boolean;
     mode?: "train" | "bus" | "watercraft" | "taxi" | "gondola" | "aircraft" | "car" | "bicycle" | "walking";
     /** routes ids */
     routes?: readonly string[];
