@@ -73,7 +73,9 @@ const parseLocation = (ctx, l) => {
 		}
 
 		if (opt.linesOfStops && Array.isArray(l.lines)) {
-			stop.lines = l.lines
+			stop.lines = l.lines.filter((line, index) => {
+				return index === l.lines.findIndex(l => line.id === l.id);
+			})
 		}
 
 		const locHints = (l.remarkRefs || [])

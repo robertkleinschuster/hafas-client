@@ -88,16 +88,6 @@ const dbArrivals = [
 					},
 					{
 						type: 'line',
-						id: 're',
-						fahrtNr: null,
-						name: 'RE',
-						public: true,
-						filter: false,
-						mode: 'train',
-						product: 'regional'
-					},
-					{
-						type: 'line',
 						id: '4-08-2',
 						fahrtNr: null,
 						name: 'S 2',

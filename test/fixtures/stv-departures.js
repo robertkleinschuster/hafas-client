@@ -163,15 +163,6 @@ const stvDepartures = [{
 			"product": "train-and-s-bahn"
 		}, {
 			"type": "line",
-			"id": "obb-1-s5-m-j23-1",
-			"fahrtNr": null,
-			"name": "S5",
-			"public": true,
-			"filter": true,
-			"mode": "train",
-			"product": "train-and-s-bahn"
-		}, {
-			"type": "line",
 			"id": "stv-37-s6-j23-1",
 			"fahrtNr": null,
 			"name": "S6",
@@ -823,15 +814,6 @@ const stvDepartures = [{
 				"id": "obb-1-s3-m-j24-1",
 				"fahrtNr": null,
 				"name": "S3",
-				"public": true,
-				"filter": true,
-				"mode": "train",
-				"product": "train-and-s-bahn"
-			}, {
-				"type": "line",
-				"id": "obb-1-s5-m-j23-1",
-				"fahrtNr": null,
-				"name": "S5",
 				"public": true,
 				"filter": true,
 				"mode": "train",
@@ -1749,15 +1731,6 @@ const stvDepartures = [{
 			"product": "train-and-s-bahn"
 		}, {
 			"type": "line",
-			"id": "obb-1-s5-m-j23-1",
-			"fahrtNr": null,
-			"name": "S5",
-			"public": true,
-			"filter": true,
-			"mode": "train",
-			"product": "train-and-s-bahn"
-		}, {
-			"type": "line",
 			"id": "stv-37-s6-j23-1",
 			"fahrtNr": null,
 			"name": "S6",
@@ -2409,15 +2382,6 @@ const stvDepartures = [{
 				"id": "obb-1-s3-m-j24-1",
 				"fahrtNr": null,
 				"name": "S3",
-				"public": true,
-				"filter": true,
-				"mode": "train",
-				"product": "train-and-s-bahn"
-			}, {
-				"type": "line",
-				"id": "obb-1-s5-m-j23-1",
-				"fahrtNr": null,
-				"name": "S5",
 				"public": true,
 				"filter": true,
 				"mode": "train",
@@ -3835,15 +3799,6 @@ const stvDepartures = [{
 			"product": "train-and-s-bahn"
 		}, {
 			"type": "line",
-			"id": "obb-1-s5-m-j23-1",
-			"fahrtNr": null,
-			"name": "S5",
-			"public": true,
-			"filter": true,
-			"mode": "train",
-			"product": "train-and-s-bahn"
-		}, {
-			"type": "line",
 			"id": "stv-37-s6-j23-1",
 			"fahrtNr": null,
 			"name": "S6",
@@ -4495,15 +4450,6 @@ const stvDepartures = [{
 				"id": "obb-1-s3-m-j24-1",
 				"fahrtNr": null,
 				"name": "S3",
-				"public": true,
-				"filter": true,
-				"mode": "train",
-				"product": "train-and-s-bahn"
-			}, {
-				"type": "line",
-				"id": "obb-1-s5-m-j23-1",
-				"fahrtNr": null,
-				"name": "S5",
 				"public": true,
 				"filter": true,
 				"mode": "train",
@@ -5621,15 +5567,6 @@ const stvDepartures = [{
 			"product": "train-and-s-bahn"
 		}, {
 			"type": "line",
-			"id": "obb-1-s5-m-j23-1",
-			"fahrtNr": null,
-			"name": "S5",
-			"public": true,
-			"filter": true,
-			"mode": "train",
-			"product": "train-and-s-bahn"
-		}, {
-			"type": "line",
 			"id": "stv-37-s6-j23-1",
 			"fahrtNr": null,
 			"name": "S6",
@@ -6280,15 +6217,6 @@ const stvDepartures = [{
 				"id": "obb-1-s3-m-j24-1",
 				"fahrtNr": null,
 				"name": "S3",
-				"public": true,
-				"filter": true,
-				"mode": "train",
-				"product": "train-and-s-bahn"
-			}, {
-				"type": "line",
-				"id": "obb-1-s5-m-j23-1",
-				"fahrtNr": null,
-				"name": "S5",
 				"public": true,
 				"filter": true,
 				"mode": "train",
@@ -7856,15 +7784,6 @@ const stvDepartures = [{
 			"product": "train-and-s-bahn"
 		}, {
 			"type": "line",
-			"id": "obb-1-s5-m-j23-1",
-			"fahrtNr": null,
-			"name": "S5",
-			"public": true,
-			"filter": true,
-			"mode": "train",
-			"product": "train-and-s-bahn"
-		}, {
-			"type": "line",
 			"id": "stv-37-s6-j23-1",
 			"fahrtNr": null,
 			"name": "S6",
@@ -8487,15 +8406,6 @@ const stvDepartures = [{
 			"product": "train-and-s-bahn"
 		}, {
 			"type": "line",
-			"id": "obb-1-s5-m-j23-1",
-			"fahrtNr": null,
-			"name": "S5",
-			"public": true,
-			"filter": true,
-			"mode": "train",
-			"product": "train-and-s-bahn"
-		}, {
-			"type": "line",
 			"id": "stv-37-s6-j23-1",
 			"fahrtNr": null,
 			"name": "S6",
@@ -9087,15 +8997,6 @@ const stvDepartures = [{
 				"id": "obb-1-s3-m-j24-1",
 				"fahrtNr": null,
 				"name": "S3",
-				"public": true,
-				"filter": true,
-				"mode": "train",
-				"product": "train-and-s-bahn"
-			}, {
-				"type": "line",
-				"id": "obb-1-s5-m-j23-1",
-				"fahrtNr": null,
-				"name": "S5",
 				"public": true,
 				"filter": true,
 				"mode": "train",
@@ -12705,15 +12606,6 @@ const stvDepartures = [{
 				"id": "obb-1-s3-m-j24-1",
 				"fahrtNr": null,
 				"name": "S3",
-				"public": true,
-				"filter": true,
-				"mode": "train",
-				"product": "train-and-s-bahn"
-			}, {
-				"type": "line",
-				"id": "obb-1-s5-m-j23-1",
-				"fahrtNr": null,
-				"name": "S5",
 				"public": true,
 				"filter": true,
 				"mode": "train",
